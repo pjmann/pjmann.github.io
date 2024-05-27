@@ -3,7 +3,7 @@
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
+Academic Pages is a Github Pages template for academic websites and I followed along with [this](https://www.youtube.com/watch?v=8lJhXJCUYCc) workflow to adapt it. 
 
 
 # Getting Started
